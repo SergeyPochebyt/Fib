@@ -1,0 +1,5 @@
+D:\DevEPAM\HW\Fibonachi\Fibonachi\bin\Debug\Fibonachi.exe.config
+D:\DevEPAM\HW\Fibonachi\Fibonachi\bin\Debug\Fibonachi.exe
+D:\DevEPAM\HW\Fibonachi\Fibonachi\bin\Debug\Fibonachi.pdb
+D:\DevEPAM\HW\Fibonachi\Fibonachi\obj\Debug\Fibonachi.exe
+D:\DevEPAM\HW\Fibonachi\Fibonachi\obj\Debug\Fibonachi.pdb
